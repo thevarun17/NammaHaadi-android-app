@@ -1,0 +1,24 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# Mobile SDK
+google-services.json
+
+# Signing files
+*.jks
+*.keystore
+
+# Built variants
+*.apk
+*.aar

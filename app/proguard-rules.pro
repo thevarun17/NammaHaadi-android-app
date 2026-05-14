@@ -1,0 +1,6 @@
+-keep class com.nammahaadi.app.data.model.** { *; }
+-keep class retrofit2.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

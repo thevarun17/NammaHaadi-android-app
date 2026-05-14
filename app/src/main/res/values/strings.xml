@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Haadi</string>
+    <string name="issues">Issues</string>
+    <string name="map">Map</string>
+    <string name="report">Report</string>
+    <string name="alerts">Alerts</string>
+    <string name="leaderboard">Rank</string>
+    <string name="profile">Profile</string>
+</resources>
