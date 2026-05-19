@@ -94,5 +94,5 @@ Distributed under the MIT License.
 
 ## ✉️ Contact
 
-Varun - [your-email@example.com]  
-Project Link: [https://github.com/your-username/namma-haadi-android](https://github.com/your-username/namma-haadi-android)
+Varun - [varunkumar.connect@gmail.com]  
+Project Link: [https://github.com/thevarun17/NammaHaadi-android-app](https://github.com/your-username/namma-haadi-android)
